@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lICantScriptIl
-- 👀 I’m interested in Coding
+- 👀 I like to code and listen to music 
 - 🌱 I’m currently learning C++ and C#
 
 <!---
