@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lICantScriptIl
-- 👀 I like to code and listen to music 
-- 🌱 I’m currently learning C++ and C#
+- 👀 I like to code and listen to music
+- 🌱 I’m currently learning Lua
 
 <!---
 lICantScriptIl/lICantScriptIl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
